@@ -19,7 +19,7 @@ public class ExampleUnitTest {
     public void subscription_isCorrect() throws Exception {
 
         //WE intentionally made the string null
-        String myName = null;
+        String myName = "JenkinsExampleTest";
 
         assertNull(myName);
     }
